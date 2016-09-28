@@ -13,6 +13,7 @@ public class HelloApp {
         System.out.println("Goodbye you Git!");
 
         System.out.println("Some other message");
+        // a further comment
     }
 
 }
