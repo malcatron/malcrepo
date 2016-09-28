@@ -6,6 +6,7 @@ public class NewApp {
 
         // this is a new application
         
+        // added in GitHub
         
     }
 
