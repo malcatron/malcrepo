@@ -5,3 +5,5 @@ Added another line...
 Merger this new line instead of rebasing
 
 let's try creating a conflict
+
+This should conflict
