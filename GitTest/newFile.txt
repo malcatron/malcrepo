@@ -1,1 +1,3 @@
 Hello, I'm anew file - you'll need to rebase!
+
+Added another line...
