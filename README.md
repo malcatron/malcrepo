@@ -1,2 +1,2 @@
 # malcrepo
-testing ground to learn how git works
+editing the readme to try out pull request
